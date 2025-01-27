@@ -92,7 +92,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or feedback, please feel free to reach out to the repository owner at [youremail@example.com](mailto:youremail@example.com).
+If you have any questions or feedback, please feel free to reach out to the repository owner at karamalsaify10@gmail.com.
 
 ---
 Thank you for checking out the Mental Health Assessment Web Application. We hope this tool helps you take the first steps toward a better understanding of your mental health.
